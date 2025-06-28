@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://nathanraym.github.io/devchallengesio/">
+    <a href="https://nathanraym.github.io/DevChallengesIO-Simple-Feature-Section/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/NathanRayM/devchallengesio.git">
+    <a href="https://github.com/NathanRayM/DevChallengesIO-Simple-Feature-Section.git">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/NathanRayM/devchallengesio/blob/main/images/Desktop_1350px.jpg)
+![screenshot](https://github.com/NathanRayM/DevChallengesIO-Simple-Feature-Section/blob/main/images/Desktop_1350px.jpg)
 
 Simple Feature Section
 Code a simple feature section challenge with HTML and CSS to practice flexbox and nested flexbox.
